@@ -1,0 +1,7 @@
+D:\GitProjects\C#\JustBasics\bin\Debug\JustBasics.exe.config
+D:\GitProjects\C#\JustBasics\bin\Debug\JustBasics.exe
+D:\GitProjects\C#\JustBasics\bin\Debug\JustBasics.pdb
+D:\GitProjects\C#\JustBasics\obj\Debug\JustBasics.csproj.AssemblyReference.cache
+D:\GitProjects\C#\JustBasics\obj\Debug\JustBasics.csproj.CoreCompileInputs.cache
+D:\GitProjects\C#\JustBasics\obj\Debug\JustBasics.exe
+D:\GitProjects\C#\JustBasics\obj\Debug\JustBasics.pdb
