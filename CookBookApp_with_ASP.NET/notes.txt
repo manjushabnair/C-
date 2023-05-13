@@ -1,0 +1,14 @@
+.Net is a unified platform to build various applications,
+web, desktop, mobile, gaming, IoT, AI.
+
+ASP.Net for building web applications. 
+
+.NET consists of runtime and libraries for executing programs in comliant language
+
+MVC is a design pattern that enforces separation of a whole application 
+code into view, logic and data access so the code is moduar
+
+View - CSS html code, gets list of data from controller
+
+Model - Data related, consistys of classes and objects with properties
+uses SQL stats, provides controller with list of object
