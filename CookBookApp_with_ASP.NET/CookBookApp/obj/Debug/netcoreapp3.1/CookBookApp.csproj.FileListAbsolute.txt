@@ -168,3 +168,4 @@ D:\GitProjects\C#\CSharp\CookBookApp_with_ASP.NET\CookBookApp\obj\Debug\netcorea
 D:\GitProjects\C#\CSharp\CookBookApp_with_ASP.NET\CookBookApp\obj\Debug\netcoreapp3.1\Razor\Views\Receipes\Details.cshtml.g.cs
 D:\GitProjects\C#\CSharp\CookBookApp_with_ASP.NET\CookBookApp\obj\Debug\netcoreapp3.1\Razor\Views\Receipes\Edit.cshtml.g.cs
 D:\GitProjects\C#\CSharp\CookBookApp_with_ASP.NET\CookBookApp\obj\Debug\netcoreapp3.1\Razor\Views\Receipes\Index.cshtml.g.cs
+D:\GitProjects\C#\CSharp\CookBookApp_with_ASP.NET\CookBookApp\obj\Debug\netcoreapp3.1\Razor\Views\Receipes\ShowSearch.cshtml.g.cs

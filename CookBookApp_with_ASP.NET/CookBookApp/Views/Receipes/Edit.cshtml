@@ -19,9 +19,14 @@
                 <span asp-validation-for="ReceipeTitle" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ReceipeText" class="control-label"></label>
-                <input asp-for="ReceipeText" class="form-control" />
-                <span asp-validation-for="ReceipeText" class="text-danger"></span>
+                <label asp-for="ReceipeIngredients" class="control-label"></label>
+                <input asp-for="ReceipeIngredients" class="form-control" />
+                <span asp-validation-for="ReceipeIngredients" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceipeMethod" class="control-label"></label>
+                <input asp-for="ReceipeMethod" class="form-control" />
+                <span asp-validation-for="ReceipeMethod" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />

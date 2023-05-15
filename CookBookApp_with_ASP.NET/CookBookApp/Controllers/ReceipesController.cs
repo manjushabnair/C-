@@ -24,7 +24,11 @@ namespace CookBookApp.Controllers
         {
             return View(await _context.Receipes.ToListAsync());
         }
-
+        //GET: Search
+        public async Task<IActionResult> ShowSearch()
+        {
+            return View();
+        }
         // GET: Receipes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -54,7 +58,7 @@ namespace CookBookApp.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,ReceipeTitle,ReceipeText")] Receipes receipes)
+        public async Task<IActionResult> Create([Bind("Id,ReceipeTitle,ReceipeIngredients,ReceipeMethod")] Receipes receipes)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +90,7 @@ namespace CookBookApp.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,ReceipeTitle,ReceipeText")] Receipes receipes)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,ReceipeTitle,ReceipeIngredients,ReceipeMethod")] Receipes receipes)
         {
             if (id != receipes.Id)
             {

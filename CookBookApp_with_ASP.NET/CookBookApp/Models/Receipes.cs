@@ -9,7 +9,8 @@ namespace CookBookApp.Models
     {
         public int Id { get; set; }
         public string ReceipeTitle { get; set; }
-        public string ReceipeText { get; set; }
+        public string ReceipeIngredients { get; set; }
+        public string ReceipeMethod { get; set; }
 
         public Receipes()
         {
