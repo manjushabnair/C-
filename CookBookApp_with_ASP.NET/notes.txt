@@ -12,3 +12,9 @@ View - CSS html code, gets list of data from controller
 
 Model - Data related, consistys of classes and objects with properties
 uses SQL stats, provides controller with list of object
+
+Two ways to setup data: 
+Data Access Object: Traditional way to set-up database; Create tables manually by writing SQL statements, 
+
+Object Relational Mapper : database setup by code first method, generates tables based on  classes defined in the application;
+database updated using migrations. Entity framework is an example of an object Relational mapper
