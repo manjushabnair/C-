@@ -29,6 +29,11 @@ namespace CookBookApp.Controllers
         {
             return View();
         }
+        //Post: Search Results
+        public async Task<IActionResult> ShowSearchResult(string SearchReceipe)
+        {
+            return View("Index", await _context.Receipes.Where(j => j.ReceipeTitle.Contains(SearchReceipe)).ToListAsync());
+        }
         // GET: Receipes/Details/5
         public async Task<IActionResult> Details(int? id)
         {

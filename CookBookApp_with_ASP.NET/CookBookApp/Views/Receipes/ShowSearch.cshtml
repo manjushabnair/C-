@@ -1,28 +1,15 @@
-﻿@model CookBookApp.Models.Receipes
-
-<h4>Receipes</h4>
+﻿
+<h4>Search for a Receipe</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="ShowSearch">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form asp-action="ShowSearchResult">
             <div class="form-group">
-                <label asp-for="ReceipeTitle" class="control-label"></label>
-                <input asp-for="ReceipeTitle" class="form-control" />
-                <span asp-validation-for="ReceipeTitle" class="text-danger"></span>
+                <label for="SearchReceipe" class="control-label"></label>
+                <input name="SearchReceipe" class="form-control" />
             </div>
             <div class="form-group">
-                <label asp-for="ReceipeIngredients" class="control-label"></label>
-                <input asp-for="ReceipeIngredients" class="form-control" />
-                <span asp-validation-for="ReceipeIngredients" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ReceipeMethod" class="control-label"></label>
-                <input asp-for="ReceipeMethod" class="form-control" />
-                <span asp-validation-for="ReceipeMethod" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Search" class="btn btn-primary" />
             </div>
         </form>
     </div>
@@ -32,6 +19,3 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
