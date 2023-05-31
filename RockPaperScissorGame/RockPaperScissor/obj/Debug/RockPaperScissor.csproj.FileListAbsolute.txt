@@ -1,0 +1,7 @@
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.AssemblyReference.cache
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+D:\GitProjects\C#\CSharp\RockPaperScissorGame\RockPaperScissor\obj\Debug\RockPaperScissor.pdb
