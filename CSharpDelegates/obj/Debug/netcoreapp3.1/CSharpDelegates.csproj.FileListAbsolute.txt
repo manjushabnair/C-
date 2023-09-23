@@ -1,0 +1,14 @@
+D:\GitProjects\C#\CSharp\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.exe
+D:\GitProjects\C#\CSharp\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.deps.json
+D:\GitProjects\C#\CSharp\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.runtimeconfig.json
+D:\GitProjects\C#\CSharp\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.runtimeconfig.dev.json
+D:\GitProjects\C#\CSharp\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.dll
+D:\GitProjects\C#\CSharp\CSharpDelegates\bin\Debug\netcoreapp3.1\CSharpDelegates.pdb
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.csproj.AssemblyReference.cache
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.AssemblyInfoInputs.cache
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.AssemblyInfo.cs
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.csproj.CoreCompileInputs.cache
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.dll
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.pdb
+D:\GitProjects\C#\CSharp\CSharpDelegates\obj\Debug\netcoreapp3.1\CSharpDelegates.genruntimeconfig.cache
